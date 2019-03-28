@@ -1,20 +1,29 @@
 body {
   background-color: #dadada;
-  font-size: 10px;
+  font-size: 1.5em;
+}​
+
+.container {
+  height: 200px;
+  width: 50%;
+  padding: 10% 10% 10% 10%
+  background-color: powderblue;
+  background-image: url("/images/baku.jpg"), url("/images/london.png"), url("/images/madrid.jpg"), url("/images/rome.jpg");
 }
 
 /*tablet*/
 
 @media screen and (min-width: 575px) {
-  div {
+  h1 {
   margin: 1%;
   width: 48%;
+
 }
 
 /*desktop*/
 
 @media screen and (min-width: 991px) {
-    div {
+    h1 {
     margin: 1%;
     width: 48%;
   }
