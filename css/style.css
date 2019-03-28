@@ -2,3 +2,20 @@ body {
   background-color: #dadada;
   font-size: 10px;
 }
+
+/*tablet*/
+
+@media screen and (min-width: 575px) {
+  div {
+  margin: 1%;
+  width: 48%;
+}
+
+/*desktop*/
+
+@media screen and (min-width: 991px) {
+    div {
+    margin: 1%;
+    width: 48%;
+  }
+}
