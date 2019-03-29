@@ -1,7 +1,21 @@
 body {
-  background-color: #dadada;
-  font-size: 1.5em;
+  .preview-baku {
+    background-image: url(/images/baku.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+  }
 }​
+
+.container {
+  background-color: blue;
+}
+
+
+.preview-baku {
+  background-image: url(/images/baku.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+}
 
 /*tablet*/
 
@@ -11,6 +25,7 @@ body {
   width: 48%;
 }
 }
+
 /*desktop*/
 
 @media all and (min-width: 991px) {
