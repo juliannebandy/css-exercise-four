@@ -3,26 +3,17 @@ body {
   font-size: 1.5em;
 }​
 
-.container {
-  height: 200px;
-  width: 50%;
-  padding: 10% 10% 10% 10%
-  background-color: powderblue;
-  background-image: url("/images/baku.jpg"), url("/images/london.png"), url("/images/madrid.jpg"), url("/images/rome.jpg");
-}
-
 /*tablet*/
 
-@media screen and (min-width: 575px) {
+@media all and (min-width: 575px) {
   h1 {
   margin: 1%;
   width: 48%;
-
 }
-
+}
 /*desktop*/
 
-@media screen and (min-width: 991px) {
+@media all and (min-width: 991px) {
     h1 {
     margin: 1%;
     width: 48%;
