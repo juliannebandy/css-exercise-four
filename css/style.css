@@ -6,14 +6,14 @@ body {
   background-image: url("../images/london.png");
   background-repeat: no-repeat;
   background-position: left;
-  padding: 15%;
+  padding: 10%;
 }
 
 .baku {
   background-image: url("../images/baku.jpg");
   background-repeat: no-repeat;
   background-position: left;
-  padding: 15%;
+  padding: 10%;
 }
 
 
@@ -21,14 +21,14 @@ body {
   background-image: url("../images/madrid.jpg");
   background-repeat: no-repeat;
   background-position: left;
-  padding:15%;
+  padding:10%;
 }
 
 .rome {
   background-image: url("../images/rome.jpg");
   background-repeat: no-repeat;
   background-position: left;
-  padding: 15%;
+  padding: 10%;
 }
 /*tablet*/
 
