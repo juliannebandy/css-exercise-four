@@ -3,7 +3,7 @@ body {
 }​
 
 .preview-baku {
-  background-image: url(/images/baku.jpg);
+  background-image: url("../images/baku.jpg");
   background-repeat: no-repeat;
   background-position: top;
 }
