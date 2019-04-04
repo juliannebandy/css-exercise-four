@@ -2,28 +2,31 @@ body {
   font-size: 1.5em;
 }​
 
-.preview-baku {
+.baku {
   background-image: url("../images/baku.jpg");
   background-repeat: no-repeat;
-  background-position: top;
+  background-position: top
 }
 
-.preview-london {
+.london {
   background-image: url("../images/london.png");
   background-repeat: no-repeat;
-  background-position: top;
+  background-position: left;
+  padding: 15%
 }
 
-.preview-madrid {
+.madrid {
   background-image: url("../images/madrid.jpg");
   background-repeat: no-repeat;
-  background-position: top;
+  background-position: left;
+  padding:15%
 }
 
-.preview-rome {
+.rome {
   background-image: url("../images/rome.jpg");
   background-repeat: no-repeat;
-  background-position: top;
+  background-position: left;
+  padding: 15%
 }
 /*tablet*/
 
