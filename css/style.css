@@ -31,6 +31,7 @@ div {
 .rome {
   background-image: url("../images/rome.jpg");
 }
+
 /*tablet*/
 @media screen and (min-width: 575px) {
   .preview  {
