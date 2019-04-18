@@ -4,7 +4,7 @@
 
 body {
   margin: 10% auto;
-  width: 100%;
+  width: 80%;
   background-color: #dadada;
 }
 
@@ -28,6 +28,8 @@ div {
 .preview {
   height: 300px;
   padding: 2rem;
+  margin: .4em 0;
+  width: 100%;
 }
 
 .london {
@@ -52,6 +54,7 @@ div {
     display: inline-block;
     width: 48%;
     margin: 1%;
+    height: 200px;
   }
 }
 
@@ -61,5 +64,6 @@ div {
     display: inline-block;
     width: 23%;
     margin: 1%;
+        height: 200px;
   }
 }
